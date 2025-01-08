@@ -6,7 +6,7 @@
         {
             //create matrix
             int dimensions = int.Parse(Console.ReadLine());
-            char[,] matrix = new char[5, 5];
+            char[,] matrix = new char[dimensions, dimensions];
 
             //Populate the matrix
             for (int row = 0; row < dimensions; row++)

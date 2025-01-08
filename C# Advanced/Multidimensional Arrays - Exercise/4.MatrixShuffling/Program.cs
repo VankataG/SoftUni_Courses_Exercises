@@ -26,17 +26,25 @@
                 string[] commands = comm.Split(" ", StringSplitOptions.RemoveEmptyEntries);
                 if (commands[0] == "swap")
                 {
-                    int row1 = int.Parse(commands[1]);
-                    int col1 = int.Parse(commands[2]);
-                    int row2 = int.Parse(commands[3]);
-                    int col2 = int.Parse(commands[4]);
-                    if (row1 < 0 || row1 > rowsCount - 1 || row2 < 0 || row2 > rowsCount - 1 ||
-                        col1 < 0 || col1 > colsCount - 1 || col2 < 0 || col2 > colsCount - 1)
+                    
+                    if (commands.Length > 5 || commands.Length < 5 )
                         PrintError();
                     else
                     {
-                        SwapElementsInMatrix(matrix, row1, col1, row2, col2);
-                        PrintMatrix(matrix, rowsCount, colsCount);
+                        int row1 = int.Parse(commands[1]);
+                        int col1 = int.Parse(commands[2]);
+                        int row2 = int.Parse(commands[3]);
+                        int col2 = int.Parse(commands[4]);
+                        if (row1 < 0 || row1 > rowsCount - 1 || row2 < 0 || row2 > rowsCount - 1 ||
+                            col1 < 0 || col1 > colsCount - 1 || col2 < 0 || col2 > colsCount - 1)
+                            PrintError();
+
+
+                        else
+                        {
+                            SwapElementsInMatrix(matrix, row1, col1, row2, col2);
+                            PrintMatrix(matrix, rowsCount, colsCount);
+                        }
                     }
                 }
                 else
