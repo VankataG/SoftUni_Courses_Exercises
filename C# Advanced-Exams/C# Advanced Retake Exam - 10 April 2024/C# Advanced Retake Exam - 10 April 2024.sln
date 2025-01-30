@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35506.116 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataCenter", "DataCenter\DataCenter.csproj", "{122DDC50-9389-4089-80FE-12B83171E054}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EscapeTheMaze", "EscapeTheMaze\EscapeTheMaze.csproj", "{90C2486B-25FB-4FA7-9F66-4F0B7478A03A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiePursuit", "PiePursuit\PiePursuit.csproj", "{D8ACF36F-E4EE-406D-AF22-0488A25E735D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{122DDC50-9389-4089-80FE-12B83171E054}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{122DDC50-9389-4089-80FE-12B83171E054}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{122DDC50-9389-4089-80FE-12B83171E054}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{122DDC50-9389-4089-80FE-12B83171E054}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90C2486B-25FB-4FA7-9F66-4F0B7478A03A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90C2486B-25FB-4FA7-9F66-4F0B7478A03A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90C2486B-25FB-4FA7-9F66-4F0B7478A03A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90C2486B-25FB-4FA7-9F66-4F0B7478A03A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8ACF36F-E4EE-406D-AF22-0488A25E735D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8ACF36F-E4EE-406D-AF22-0488A25E735D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8ACF36F-E4EE-406D-AF22-0488A25E735D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8ACF36F-E4EE-406D-AF22-0488A25E735D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
