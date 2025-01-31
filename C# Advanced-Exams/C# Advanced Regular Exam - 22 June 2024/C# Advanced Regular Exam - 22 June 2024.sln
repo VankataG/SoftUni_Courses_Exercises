@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35506.116 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.RapidCourier", "01.RapidCourier\01.RapidCourier.csproj", "{76BF12FB-86D7-4A56-88D2-ACD4ED23CDF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Beesy", "02.Beesy\02.Beesy.csproj", "{50E05A97-175E-481D-8E2F-0777C36B5D47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstateAgency", "EstateAgency\EstateAgency.csproj", "{330757B9-85B0-4710-804A-4E7BE7015765}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76BF12FB-86D7-4A56-88D2-ACD4ED23CDF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76BF12FB-86D7-4A56-88D2-ACD4ED23CDF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76BF12FB-86D7-4A56-88D2-ACD4ED23CDF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76BF12FB-86D7-4A56-88D2-ACD4ED23CDF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50E05A97-175E-481D-8E2F-0777C36B5D47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50E05A97-175E-481D-8E2F-0777C36B5D47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50E05A97-175E-481D-8E2F-0777C36B5D47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50E05A97-175E-481D-8E2F-0777C36B5D47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{330757B9-85B0-4710-804A-4E7BE7015765}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{330757B9-85B0-4710-804A-4E7BE7015765}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{330757B9-85B0-4710-804A-4E7BE7015765}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{330757B9-85B0-4710-804A-4E7BE7015765}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
