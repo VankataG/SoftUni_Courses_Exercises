@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35506.116 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChickenSnack", "ChickenSnack\ChickenSnack.csproj", "{F365F09B-CF7E-416E-B5D3-A10961EDDBB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClearSkies", "ClearSkies\ClearSkies.csproj", "{44E40555-FB6A-477E-802F-3A612516F0A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharkTaxonomy", "SharkTaxonomy\SharkTaxonomy.csproj", "{F0351C9D-885D-44C2-B195-7CADFBE2C650}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F365F09B-CF7E-416E-B5D3-A10961EDDBB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F365F09B-CF7E-416E-B5D3-A10961EDDBB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F365F09B-CF7E-416E-B5D3-A10961EDDBB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F365F09B-CF7E-416E-B5D3-A10961EDDBB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44E40555-FB6A-477E-802F-3A612516F0A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44E40555-FB6A-477E-802F-3A612516F0A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44E40555-FB6A-477E-802F-3A612516F0A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44E40555-FB6A-477E-802F-3A612516F0A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0351C9D-885D-44C2-B195-7CADFBE2C650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0351C9D-885D-44C2-B195-7CADFBE2C650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0351C9D-885D-44C2-B195-7CADFBE2C650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0351C9D-885D-44C2-B195-7CADFBE2C650}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
