@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35506.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OffroadChallenge", "OffroadChallenge\OffroadChallenge.csproj", "{D1BB149F-9913-4763-BEE1-BE866DC68F92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailClient", "MailClient\MailClient.csproj", "{7F354AA5-7FF6-4985-A750-C6BD5328B027}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FishingCompetition", "FishingCompetition\FishingCompetition.csproj", "{C3B7A1D6-ABA3-4CEE-987F-E7EE07EB0434}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1BB149F-9913-4763-BEE1-BE866DC68F92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1BB149F-9913-4763-BEE1-BE866DC68F92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1BB149F-9913-4763-BEE1-BE866DC68F92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1BB149F-9913-4763-BEE1-BE866DC68F92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F354AA5-7FF6-4985-A750-C6BD5328B027}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F354AA5-7FF6-4985-A750-C6BD5328B027}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F354AA5-7FF6-4985-A750-C6BD5328B027}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F354AA5-7FF6-4985-A750-C6BD5328B027}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3B7A1D6-ABA3-4CEE-987F-E7EE07EB0434}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3B7A1D6-ABA3-4CEE-987F-E7EE07EB0434}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3B7A1D6-ABA3-4CEE-987F-E7EE07EB0434}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3B7A1D6-ABA3-4CEE-987F-E7EE07EB0434}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
